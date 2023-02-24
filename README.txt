@@ -1,3 +1,5 @@
+(This project was last updated on 11.27.22)
+
 Directions:
 
 Simply open the JAR file "Tetris [Java]" in the project folder.
