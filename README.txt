@@ -9,16 +9,13 @@ then I will need to find a way to implement them during the project's conversion
 To run the program in an IDE, "Tetris.java" is the file to compile and run.
 
 Program Controls: (Arrow Keys and Spacebar)
-
 Down: Slowly drops the current block
 Left: Moves the block towards the left
 Right: Moves the block towards the right
-
 Up: Rotates the current block
 Spacebar: Immediately drops the current block
 
-
-Project Description:
+Project Description and Purpose:
 
 Tetris is a puzzle game that prompts players to complete lines by moving different shaped pieces around a playing field. 
 The pieces slowly descend down the play field while the player has options to rotate the shape at 90º intervals. 
@@ -29,4 +26,4 @@ Oftentimes, there is also a feature that allows the player to move a piece down 
 
 My program aims to create a functioning Tetris game with blocks that fall in random order. 
 Connecting these blocks will grant the player a certain amount of points. The program will solve issues including the calculation of points,
-the implementation of a user interface and controls, and the creation of graphics. 
+the implementation of a user interface and controls, and the creation of graphics.
