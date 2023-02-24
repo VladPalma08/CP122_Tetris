@@ -1,0 +1,8 @@
+Vladimir Palma
+ 
+Each shape extends TetrisBlock, and this is how each shape is intialized.
+Each shape creates a 2D array list filled with 1s and 0s to represent blocks 
+that should be colored and blocks that should be left empty. Each block is then 
+given its own image file which is used in next block and returns that in the 
+abstract method getImage that exists in TetrisBlock. 
+ 
